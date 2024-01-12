@@ -1,0 +1,9 @@
+site_name: Test
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+  locale: fr
+version: 0.1
