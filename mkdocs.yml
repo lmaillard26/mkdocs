@@ -7,3 +7,5 @@ theme:
     - rust
   locale: fr
 version: 0.1
+nav:
+  - Test: 'index.md'
