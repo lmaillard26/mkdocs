@@ -9,3 +9,4 @@ theme:
 version: 0.1
 nav:
   - Test: 'index.md'
+  - Test2: 'index.md'
